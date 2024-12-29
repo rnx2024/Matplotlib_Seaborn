@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Load the dataset
+# Load and read the dataset
 data = pd.read_csv('/Matplotlib_Seaborn/shopping_trends.csv')
 
 # Filter for sweaters
