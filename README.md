@@ -1,3 +1,7 @@
+# Graph for Sweaters Sold in Different Location
+
+![Image](https://github.com/rnx2024/Matplotlib_Seaborn/blob/main/graphforshoppingtrends.png)
+
 This is a colorful graph using the pandas, matplotlib and seaborn libraries.  
 To load, read, filter and group the dataset, pandas was used. 
 
